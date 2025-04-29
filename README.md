@@ -2,7 +2,7 @@
 
 This is a simple one-page **Grocery Market** website that I created using only **HTML** and **CSS**. It is one of the first projects I built during my early steps in web development.
 
-🔗 **Live Preview:** *[Add your Vercel or GitHub Pages link here]*
+🔗 **Live Preview: https://groce-market-site.vercel.app/
 
 ---
 
